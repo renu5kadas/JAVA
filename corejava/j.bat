@@ -1,0 +1,1 @@
+path=C:\sublime;C:\Windows\System32;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files\Java\jdk1.8.0_144\lib;C:\Program Files\Java\jdk1.8.0_144\include
